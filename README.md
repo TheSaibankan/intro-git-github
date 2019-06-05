@@ -13,3 +13,5 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+On sait, désormais, que dans la vie animale, la violence est pourvue de freins individuels. Les animaux d'une même espèce ne luttent jamais à mort; le vainqueur épargne le vaincu. L'espèce humaine est privée de cette protection.
